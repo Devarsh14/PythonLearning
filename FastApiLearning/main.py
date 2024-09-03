@@ -7,3 +7,5 @@ def read_root():
 
 # To run python main.py
 # uvicorn main:app --reload
+# pip list | grep fastapi
+# pip freeze > requirements.txt
